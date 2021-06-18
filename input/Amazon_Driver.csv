@@ -1,0 +1,7 @@
+ID ,RunFlag ,ScenarioDescription,FunctionName,FieldName,
+
+1,Y,Verify amazon login with valid user name,test_amazon_login_with_valid_credentials,userid|password,shraddha|1234
+2,Y,Verify amazon login with in valid user name,test_amazon_login_with_valid_credentials,userid|password,shraddha|1234
+3,Y,Verify amazon login with in valid user name,test_amazon_login_with_valid_credentials,userid|password,john|1235
+4,Y,Verify amazon login with in valid user name,test_amazon_login_with_valid_credentials,userid|password,Jay|1236
+5,Y,Verify amazon login with in valid user name,test_amazon_login_with_valid_credentials,userid|password,shraddha|1237
